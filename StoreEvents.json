@@ -22,8 +22,8 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
+		"price": 300,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "foggyrain",
@@ -222,7 +222,7 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,7 +272,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
