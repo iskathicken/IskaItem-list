@@ -7859,7 +7859,103 @@
 		"price": 4500,
 		"category": "Animal",
 		"defname": "Yutyrannus"
+	},
+	{
+		"abr": "arcanetome:necromancer",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfNecromancer"
+	},
+	{
+		"abr": "glasspane",
+		"price": 22,
+		"category": "Manufactured",
+		"defname": "GlassPane"
+	},
+	{
+		"abr": "glitterworldmedkit",
+		"price": 2500,
+		"category": "Apparel",
+		"defname": "UltraMedKit"
+	},
+	{
+		"abr": "medicinebag",
+		"price": 233,
+		"category": "Apparel",
+		"defname": "MedicineBag"
+	},
+	{
+		"abr": "medkit",
+		"price": 333,
+		"category": "Apparel",
+		"defname": "MedicalKit"
+	},
+	{
+		"abr": "necromancerspell:lichform",
+		"price": 4292,
+		"category": "Scrolls",
+		"defname": "SpellOf_LichForm"
+	},
+	{
+		"abr": "necroticorb",
+		"price": 3000,
+		"category": "Apparel",
+		"defname": "TM_Artifact_NecroticOrb"
+	},
+	{
+		"abr": "repairkit",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "DubsRepairKit"
+	},
+	{
+		"abr": "salvagedcomponent",
+		"price": 35,
+		"category": "Manufactured",
+		"defname": "SalvagedComponent"
+	},
+	{
+		"abr": "tornscript:necromancy",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfUndead"
+	},
+	{
+		"abr": "yutyrannusegg(fert.)",
+		"price": 200,
+		"category": "Eggs (fert.)",
+		"defname": "EggYutyrannusFertilized"
+	},
+	{
+		"abr": "yutyrannusmeat",
+		"price": 3,
+		"category": "Raw meat",
+		"defname": "Meat_Yutyrannus"
+	},
+	{
+		"abr": "zencherries",
+		"price": 3,
+		"category": "Raw vegetarian",
+		"defname": "ZEN_Cherries"
+	},
+	{
+		"abr": "zope",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "RC2_Zope"
+	},
+	{
+		"abr": "zygolophodon",
+		"price": 3167,
+		"category": "Animal",
+		"defname": "Zygolophodon"
+	},
+	{
+		"abr": "zygolophodontusk",
+		"price": 1667,
+		"category": "Items",
+		"defname": "ZygolophodonTusk"
 	}
 	],
-	"total": 1316
+	"total": 1332
 }
