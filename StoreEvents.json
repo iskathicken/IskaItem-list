@@ -147,7 +147,7 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
@@ -267,7 +267,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 5000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -297,12 +297,12 @@
 	},
 	{
 		"abr": "torytalkervote",
-		"price": 750,
+		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 600,
+		"price": 250,
 		"karmatype": "Neutral"
 	}
 	],
