@@ -152,7 +152,7 @@
 	},
 	{
 		"abr": "agavemosto",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_AgaveMosto"
 	},
@@ -194,7 +194,7 @@
 	},
 	{
 		"abr": "ale",
-		"price": 15,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Ale"
 	},
@@ -212,7 +212,7 @@
 	},
 	{
 		"abr": "allosaurusegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggAllosaurusFertilized"
 	},
@@ -272,13 +272,13 @@
 	},
 	{
 		"abr": "ambrosiamust",
-		"price": 83,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_AmbrosiaMust"
 	},
 	{
 		"abr": "ambrosianectar",
-		"price": 208,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_AmbrosiaNectar"
 	},
@@ -320,7 +320,7 @@
 	},
 	{
 		"abr": "ankylosaurusegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggAnkylosaurusFertilized"
 	},
@@ -356,7 +356,7 @@
 	},
 	{
 		"abr": "applemust",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_AppleMust"
 	},
@@ -596,7 +596,7 @@
 	},
 	{
 		"abr": "arrack",
-		"price": 33,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Arrack"
 	},
@@ -620,7 +620,7 @@
 	},
 	{
 		"abr": "arthropleuraegg(fert.)",
-		"price": 208,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggArthropleuraFertilized"
 	},
@@ -764,7 +764,7 @@
 	},
 	{
 		"abr": "baryonyxegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggBaryonyxFertilized"
 	},
@@ -1082,7 +1082,7 @@
 	},
 	{
 		"abr": "brachiosaurusegg(fert.)",
-		"price": 83,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggBrachiosaurusFertilized"
 	},
@@ -1100,7 +1100,7 @@
 	},
 	{
 		"abr": "brandy",
-		"price": 133,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Brandy"
 	},
@@ -1130,7 +1130,7 @@
 	},
 	{
 		"abr": "brontosaurusegg(fert.)",
-		"price": 83,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggBrontosaurusFertilized"
 	},
@@ -1172,7 +1172,7 @@
 	},
 	{
 		"abr": "candy",
-		"price": 1,
+		"price": -10,
 		"category": "Snacks",
 		"defname": "RC2_MealCandy"
 	},
@@ -1244,7 +1244,7 @@
 	},
 	{
 		"abr": "carnotaurusegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCarnotaurusFertilized"
 	},
@@ -1268,7 +1268,7 @@
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
-		"price": 32,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
 	},
@@ -1406,7 +1406,7 @@
 	},
 	{
 		"abr": "chickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized"
 	},
@@ -1460,7 +1460,7 @@
 	},
 	{
 		"abr": "chocolateicecream",
-		"price": 10,
+		"price": -10,
 		"category": "Snacks",
 		"defname": "RC2_MealChocolateIceCream"
 	},
@@ -1472,7 +1472,7 @@
 	},
 	{
 		"abr": "cider",
-		"price": 23,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Cider"
 	},
@@ -1484,13 +1484,13 @@
 	},
 	{
 		"abr": "cigar",
-		"price": 7,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "RC2_Cigar"
 	},
 	{
 		"abr": "cigarette",
-		"price": 1,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "RC2_Cigarette"
 	},
@@ -1550,7 +1550,7 @@
 	},
 	{
 		"abr": "club",
-		"price": 141,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Club"
 	},
@@ -1562,7 +1562,7 @@
 	},
 	{
 		"abr": "cobraegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
 	},
@@ -1586,7 +1586,7 @@
 	},
 	{
 		"abr": "coconutwort",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_CoconutWort"
 	},
@@ -1676,7 +1676,7 @@
 	},
 	{
 		"abr": "compsognathusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCompsognathusFertilized"
 	},
@@ -1712,7 +1712,7 @@
 	},
 	{
 		"abr": "cornmash",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_CornMash"
 	},
@@ -1724,7 +1724,7 @@
 	},
 	{
 		"abr": "corythosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCorythosaurusFertilized"
 	},
@@ -1766,7 +1766,7 @@
 	},
 	{
 		"abr": "crisps",
-		"price": 8,
+		"price": -10,
 		"category": "Snacks",
 		"defname": "RC2_MealCrisps"
 	},
@@ -1808,7 +1808,7 @@
 	},
 	{
 		"abr": "crudesmokeleafjoint",
-		"price": 12,
+		"price": -10,
 		"category": "Smokeleaf Drugs",
 		"defname": "CrudeSmokeleafJoint"
 	},
@@ -1820,7 +1820,7 @@
 	},
 	{
 		"abr": "crustypeanuts",
-		"price": 25,
+		"price": -10,
 		"category": "Snacks",
 		"defname": "RC2_MealCrustyPeanuts"
 	},
@@ -1838,7 +1838,7 @@
 	},
 	{
 		"abr": "cupcake",
-		"price": 2,
+		"price": -10,
 		"category": "Snacks",
 		"defname": "RC2_MealCupcake"
 	},
@@ -1886,7 +1886,7 @@
 	},
 	{
 		"abr": "dakotaraptoregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDakotaraptorFertilized"
 	},
@@ -1904,7 +1904,7 @@
 	},
 	{
 		"abr": "deathacidifier",
-		"price": 667,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "DeathAcidifier"
 	},
@@ -1928,7 +1928,7 @@
 	},
 	{
 		"abr": "deinocheirusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDeinocheirusFertilized"
 	},
@@ -1988,7 +1988,7 @@
 	},
 	{
 		"abr": "dilophosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDilophosaurusFertilized"
 	},
@@ -2030,7 +2030,7 @@
 	},
 	{
 		"abr": "dinornisegg(fert.)",
-		"price": 117,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDinornisFertilized"
 	},
@@ -2060,7 +2060,7 @@
 	},
 	{
 		"abr": "diplodocusegg(fert.)",
-		"price": 83,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDiplodocusFertilized"
 	},
@@ -2276,7 +2276,7 @@
 	},
 	{
 		"abr": "dryosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDryosaurusFertilized"
 	},
@@ -2312,7 +2312,7 @@
 	},
 	{
 		"abr": "duckegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDuckFertilized"
 	},
@@ -2360,7 +2360,7 @@
 	},
 	{
 		"abr": "eggnog",
-		"price": 2,
+		"price": -10,
 		"category": "Drinks",
 		"defname": "RC2_Eggnog"
 	},
@@ -2606,7 +2606,7 @@
 	},
 	{
 		"abr": "emuegg(fert.)",
-		"price": 30,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized"
 	},
@@ -2930,13 +2930,13 @@
 	},
 	{
 		"abr": "fruitjuice",
-		"price": 2,
+		"price": -10,
 		"category": "Drinks",
 		"defname": "RC2_MealJuice"
 	},
 	{
 		"abr": "fruitmust",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_FruitMust"
 	},
@@ -2948,13 +2948,13 @@
 	},
 	{
 		"abr": "fruitsoda",
-		"price": 2,
+		"price": -10,
 		"category": "Drinks",
 		"defname": "RC2_FruitSoda"
 	},
 	{
 		"abr": "fruitwine",
-		"price": 22,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_FruitWine"
 	},
@@ -2996,7 +2996,7 @@
 	},
 	{
 		"abr": "gallimimusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGallimimusFertilized"
 	},
@@ -3062,7 +3062,7 @@
 	},
 	{
 		"abr": "gigantophisegg(fert.)",
-		"price": 300,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGigantophisFertilized"
 	},
@@ -3080,7 +3080,7 @@
 	},
 	{
 		"abr": "gigantoraptoregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGigantoraptorFertilized"
 	},
@@ -3092,7 +3092,7 @@
 	},
 	{
 		"abr": "gin",
-		"price": 43,
+		"price": 40,
 		"category": "Alcohol",
 		"defname": "RC2_Gin"
 	},
@@ -3104,13 +3104,13 @@
 	},
 	{
 		"abr": "ginprecursor",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_GinPrecursor"
 	},
 	{
 		"abr": "gladius",
-		"price": 239,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Gladius"
 	},
@@ -3122,7 +3122,7 @@
 	},
 	{
 		"abr": "glowpod",
-		"price": 83,
+		"price": 25,
 		"category": "Special",
 		"defname": "GlowPod"
 	},
@@ -3170,7 +3170,7 @@
 	},
 	{
 		"abr": "gooseegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGooseFertilized"
 	},
@@ -3200,7 +3200,7 @@
 	},
 	{
 		"abr": "grapemust",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_GrapeMust"
 	},
@@ -3230,7 +3230,7 @@
 	},
 	{
 		"abr": "grog",
-		"price": 3,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Grog"
 	},
@@ -3290,7 +3290,7 @@
 	},
 	{
 		"abr": "hay",
-		"price": 1,
+		"price": -10,
 		"category": "Foods",
 		"defname": "Hay"
 	},
@@ -3350,7 +3350,7 @@
 	},
 	{
 		"abr": "hempbiocoal",
-		"price": 2,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "HempBiocoal"
 	},
@@ -3410,7 +3410,7 @@
 	},
 	{
 		"abr": "hempoline",
-		"price": 4,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "Hempoline"
 	},
@@ -3434,7 +3434,7 @@
 	},
 	{
 		"abr": "honeymust",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_HoneyMust"
 	},
@@ -3488,7 +3488,7 @@
 	},
 	{
 		"abr": "hotcocoa",
-		"price": 2,
+		"price": -10,
 		"category": "Drinks",
 		"defname": "RC2_HotCocoa"
 	},
@@ -3560,7 +3560,7 @@
 	},
 	{
 		"abr": "icecream",
-		"price": 7,
+		"price": -10,
 		"category": "Snacks",
 		"defname": "RC2_MealIceCream"
 	},
@@ -3626,7 +3626,7 @@
 	},
 	{
 		"abr": "iguanaegg(fert.)",
-		"price": 42,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized"
 	},
@@ -3644,7 +3644,7 @@
 	},
 	{
 		"abr": "iguanodonegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanodonFertilized"
 	},
@@ -3656,7 +3656,7 @@
 	},
 	{
 		"abr": "ikwa",
-		"price": 197,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Ikwa"
 	},
@@ -3806,13 +3806,13 @@
 	},
 	{
 		"abr": "knife",
-		"price": 111,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Knife"
 	},
 	{
 		"abr": "kumis",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Kumis"
 	},
@@ -3824,7 +3824,7 @@
 	},
 	{
 		"abr": "kumismust",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_KumisMust"
 	},
@@ -3998,13 +3998,13 @@
 	},
 	{
 		"abr": "longsword",
-		"price": 442,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_LongSword"
 	},
 	{
 		"abr": "luciferium",
-		"price": 117,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -4028,7 +4028,7 @@
 	},
 	{
 		"abr": "mace",
-		"price": 203,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Mace"
 	},
@@ -4220,7 +4220,7 @@
 	},
 	{
 		"abr": "magyarosaurusegg(fert.)",
-		"price": 33,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggMagyarosaurusFertilized"
 	},
@@ -4394,7 +4394,7 @@
 	},
 	{
 		"abr": "mead",
-		"price": 20,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Mead"
 	},
@@ -4442,7 +4442,7 @@
 	},
 	{
 		"abr": "megalaniaegg(fert.)",
-		"price": 150,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggMegalaniaFertilized"
 	},
@@ -4466,7 +4466,7 @@
 	},
 	{
 		"abr": "megalochelysegg(fert.)",
-		"price": 267,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggMegalochelysFertilized"
 	},
@@ -4478,7 +4478,7 @@
 	},
 	{
 		"abr": "meganeuraegg(fert.)",
-		"price": 117,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggMeganeuraFertilized"
 	},
@@ -4544,7 +4544,7 @@
 	},
 	{
 		"abr": "milkcurds",
-		"price": 1,
+		"price": -10,
 		"category": "Foods",
 		"defname": "RC2_MilkCurd"
 	},
@@ -4568,7 +4568,7 @@
 	},
 	{
 		"abr": "minmiegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggMinmiFertilized"
 	},
@@ -4652,13 +4652,13 @@
 	},
 	{
 		"abr": "moonshine",
-		"price": 23,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Moonshine"
 	},
 	{
 		"abr": "moonshineprecursor",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_MoonshinePrecursor"
 	},
@@ -4892,13 +4892,13 @@
 	},
 	{
 		"abr": "nutrileafbar(smokeleaf)",
-		"price": 12,
+		"price": -10,
 		"category": "Smokeleaf Edibles",
 		"defname": "SmokeleafNutriLeaf"
 	},
 	{
 		"abr": "oatwort",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_OatWort"
 	},
@@ -5024,7 +5024,7 @@
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
@@ -5048,7 +5048,7 @@
 	},
 	{
 		"abr": "pachycephalosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggPachycephalosaurusFertilized"
 	},
@@ -5090,7 +5090,7 @@
 	},
 	{
 		"abr": "palaeeudyptesegg(fert.)",
-		"price": 217,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggPalaeeudyptesFertilized"
 	},
@@ -5144,7 +5144,7 @@
 	},
 	{
 		"abr": "parasauregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggParasaurFertilized"
 	},
@@ -5162,7 +5162,7 @@
 	},
 	{
 		"abr": "pastry",
-		"price": 2,
+		"price": -10,
 		"category": "Snacks",
 		"defname": "RC2_MealPastry"
 	},
@@ -5402,7 +5402,7 @@
 	},
 	{
 		"abr": "potatomash",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_PotatoMash"
 	},
@@ -5468,7 +5468,7 @@
 	},
 	{
 		"abr": "protoceratopsegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggProtoceratopsFertilized"
 	},
@@ -5534,7 +5534,7 @@
 	},
 	{
 		"abr": "pteranodonegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggPteranodonFertilized"
 	},
@@ -5588,7 +5588,7 @@
 	},
 	{
 		"abr": "purussaurusegg(fert.)",
-		"price": 333,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggPurussaurusFertilized"
 	},
@@ -5618,7 +5618,7 @@
 	},
 	{
 		"abr": "quetzalcoatlusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggQuetzalcoatlusFertilized"
 	},
@@ -5636,7 +5636,7 @@
 	},
 	{
 		"abr": "quinkanaegg(fert.)",
-		"price": 150,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggQuinkanaFertilized"
 	},
@@ -5732,7 +5732,7 @@
 	},
 	{
 		"abr": "rectifiedspirits",
-		"price": 117,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Everclear"
 	},
@@ -5804,13 +5804,13 @@
 	},
 	{
 		"abr": "ricemash",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_RiceMash"
 	},
 	{
 		"abr": "rimcoliquidcheese",
-		"price": 42,
+		"price": 30,
 		"category": "Drinks",
 		"defname": "RC2_LiquidCheese"
 	},
@@ -5894,7 +5894,7 @@
 	},
 	{
 		"abr": "rum",
-		"price": 35,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Rum"
 	},
@@ -5912,7 +5912,7 @@
 	},
 	{
 		"abr": "sake",
-		"price": 21,
+		"price": 40,
 		"category": "Alcohol",
 		"defname": "RC2_Sake"
 	},
@@ -6068,7 +6068,7 @@
 	},
 	{
 		"abr": "silicon",
-		"price": 2,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "Silicon"
 	},
@@ -6152,7 +6152,7 @@
 	},
 	{
 		"abr": "skag",
-		"price": 58,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "RC2_Skag"
 	},
@@ -6248,43 +6248,43 @@
 	},
 	{
 		"abr": "smokeleafcandy",
-		"price": 13,
+		"price": -10,
 		"category": "Smokeleaf Edibles",
 		"defname": "SmokeleafCandy"
 	},
 	{
 		"abr": "smokeleafcannagar",
-		"price": 78,
+		"price": -10,
 		"category": "Smokeleaf Drugs",
 		"defname": "SmokeleafCannagar"
 	},
 	{
 		"abr": "smokeleafcookie",
-		"price": 15,
+		"price": -10,
 		"category": "Smokeleaf Edibles",
 		"defname": "SmokeleafCookie"
 	},
 	{
 		"abr": "smokeleafde-energydrink",
-		"price": 52,
+		"price": -10,
 		"category": "Smokeleaf Edibles",
 		"defname": "SmokeleafDeEnergyDrink"
 	},
 	{
 		"abr": "smokeleafdistillate",
-		"price": 52,
+		"price": -10,
 		"category": "Smokeleaf Drugs",
 		"defname": "SmokeleafDistillate"
 	},
 	{
 		"abr": "smokeleafhash",
-		"price": 23,
+		"price": -10,
 		"category": "Smokeleaf Drugs",
 		"defname": "SmokeleafHash"
 	},
 	{
 		"abr": "smokeleafhashoil",
-		"price": 32,
+		"price": -10,
 		"category": "Smokeleaf Drugs",
 		"defname": "CHO"
 	},
@@ -6302,13 +6302,13 @@
 	},
 	{
 		"abr": "smokeleaflotion",
-		"price": 57,
+		"price": -10,
 		"category": "Smokeleaf Drugs",
 		"defname": "SmokeleafLotion"
 	},
 	{
 		"abr": "smokeleafpills",
-		"price": 53,
+		"price": -10,
 		"category": "Smokeleaf Drugs",
 		"defname": "SmokeleafPills"
 	},
@@ -6326,13 +6326,13 @@
 	},
 	{
 		"abr": "smokeleafsmoothie",
-		"price": 59,
+		"price": -10,
 		"category": "Smokeleaf Edibles",
 		"defname": "SmokeleafSmoothie"
 	},
 	{
 		"abr": "smokeleaftincture",
-		"price": 58,
+		"price": -10,
 		"category": "Smokeleaf Drugs",
 		"defname": "SmokeleafTincture"
 	},
@@ -6392,7 +6392,7 @@
 	},
 	{
 		"abr": "spear",
-		"price": 322,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Spear"
 	},
@@ -6422,7 +6422,7 @@
 	},
 	{
 		"abr": "spinosaurusegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggSpinosaurusFertilized"
 	},
@@ -6518,7 +6518,7 @@
 	},
 	{
 		"abr": "stegosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggStegosaurusFertilized"
 	},
@@ -6566,7 +6566,7 @@
 	},
 	{
 		"abr": "stout",
-		"price": 21,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Stout"
 	},
@@ -6584,7 +6584,7 @@
 	},
 	{
 		"abr": "stygimolochegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggStygimolochFertilized"
 	},
@@ -6620,7 +6620,7 @@
 	},
 	{
 		"abr": "sugarcanewort",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_SugarcaneWort"
 	},
@@ -6872,7 +6872,7 @@
 	},
 	{
 		"abr": "tequila",
-		"price": 37,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Tequila"
 	},
@@ -6890,7 +6890,7 @@
 	},
 	{
 		"abr": "therizinosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTherizinosaurusFertilized"
 	},
@@ -6980,7 +6980,7 @@
 	},
 	{
 		"abr": "titanisegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTitanisFertilized"
 	},
@@ -6998,7 +6998,7 @@
 	},
 	{
 		"abr": "titanoboaegg(fert.)",
-		"price": 333,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTitanoboaFertilized"
 	},
@@ -7028,7 +7028,7 @@
 	},
 	{
 		"abr": "tonicsoda",
-		"price": 2,
+		"price": -10,
 		"category": "Drinks",
 		"defname": "RC2_TonicSoda"
 	},
@@ -7148,7 +7148,7 @@
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized"
 	},
@@ -7184,7 +7184,7 @@
 	},
 	{
 		"abr": "triceratopsegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTriceratopsFertilized"
 	},
@@ -7256,7 +7256,7 @@
 	},
 	{
 		"abr": "turkeyegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized"
 	},
@@ -7280,7 +7280,7 @@
 	},
 	{
 		"abr": "tyrannosaurusrexegg(fert.)",
-		"price": 233,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTyrannosaurusRexFertilized"
 	},
@@ -7316,7 +7316,7 @@
 	},
 	{
 		"abr": "uncuredsynthamidecomposite",
-		"price": 3,
+		"price": -10,
 		"category": "Synthamide",
 		"defname": "UncuredComposite"
 	},
@@ -7466,7 +7466,7 @@
 	},
 	{
 		"abr": "utahraptoregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggUtahraptorFertilized"
 	},
@@ -7484,7 +7484,7 @@
 	},
 	{
 		"abr": "vegetablejuice",
-		"price": 2,
+		"price": -10,
 		"category": "Drinks",
 		"defname": "RC2_VegetableJuice"
 	},
@@ -7496,7 +7496,7 @@
 	},
 	{
 		"abr": "velociraptoregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggVelociraptorFertilized"
 	},
@@ -7526,7 +7526,7 @@
 	},
 	{
 		"abr": "vodka",
-		"price": 30,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Vodka"
 	},
@@ -7730,13 +7730,13 @@
 	},
 	{
 		"abr": "wheatwort",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursors",
 		"defname": "RC2_WheatWort"
 	},
 	{
 		"abr": "whiskey",
-		"price": 40,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Whiskey"
 	},
@@ -7754,7 +7754,7 @@
 	},
 	{
 		"abr": "wine",
-		"price": 42,
+		"price": -10,
 		"category": "Alcohol",
 		"defname": "RC2_Wine"
 	},
@@ -7922,7 +7922,7 @@
 	},
 	{
 		"abr": "yutyrannusegg(fert.)",
-		"price": 200,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggYutyrannusFertilized"
 	},
